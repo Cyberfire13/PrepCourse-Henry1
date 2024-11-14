@@ -1,2 +1,1 @@
-# PrepCourse-Henry1
-Es el verdadero curso
+Proyecto prueba, clonando desde github
